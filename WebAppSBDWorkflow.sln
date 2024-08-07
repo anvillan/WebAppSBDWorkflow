@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35206.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppSBDWorkflow", "WebAppSBDWorkflow\WebAppSBDWorkflow.csproj", "{C4458938-723A-4446-B86D-889B913CB961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4458938-723A-4446-B86D-889B913CB961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4458938-723A-4446-B86D-889B913CB961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4458938-723A-4446-B86D-889B913CB961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4458938-723A-4446-B86D-889B913CB961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7120464-9750-4F4A-A740-1794D1879D7A}
+	EndGlobalSection
+EndGlobal
